@@ -4,7 +4,7 @@
 header {
     position: sticky;
     top: 0;
-    background-color: #04edf5;
+    background-color: #046cf5;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
     border-radius: 5px;
 }
@@ -31,7 +31,7 @@ header {
 }
 
 #navbar a:hover {
-    color: #FF5733;
+    color: #eb1010;
 }
 
 #books{
